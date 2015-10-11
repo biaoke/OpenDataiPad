@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.org.spc.opendata-ipad</string>
+				<string>cn.org.spc.opendataipad</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
